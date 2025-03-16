@@ -1,2 +1,41 @@
 # EazyPowerShells
-This is a repository of handy PowerShell scripts
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+
+
+A curated collection of versatile PowerShell scripts designed to simplify everyday tasks and automate workflows. Perfect for developers, IT professionals, and anyone looking to boost productivity with efficient scripting solutions.
+
+## How to run
+
+
+```bash
+  Download the selected .ps1 Files
+```
+
+
+```bash
+  Run files as Administrator
+```
+
+Or
+
+```bash
+  Open PowerShell as Administrator
+```
+
+```bash
+  Copy and paste script into PowerShell and Run
+```
+
+
+
+## Authors
+
+- [@MyNameJackdev](https://www.github.com/MyNameJackdev)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
