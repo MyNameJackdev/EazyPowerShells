@@ -29,6 +29,11 @@ Or
 ```
 
 
+## PowerShell Scripts
+
+[PC lock session](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/LockComputer.ps1)
+
+
 
 ## Authors
 
