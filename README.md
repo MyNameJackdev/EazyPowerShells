@@ -28,7 +28,8 @@ Or
 
 ## PowerShell Scripts
 
-[PC lock session](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/LockComputer.ps1)
+[PC lock session](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/LockComputer.ps1) 
+<br>
 [OS integrity scan](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/DiskScan.ps1)
 
 
