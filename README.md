@@ -1,9 +1,6 @@
 # EazyPowerShells
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-
-
-
 A curated collection of versatile PowerShell scripts designed to simplify everyday tasks and automate workflows. Perfect for developers, IT professionals, and anyone looking to boost productivity with efficient scripting solutions.
 
 ## How to run
@@ -31,8 +28,8 @@ Or
 
 ## PowerShell Scripts
 
-[PC lock session](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/LockComputer.ps1)
-
+[PC lock session](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/LockComputer.ps1)
+[OS integrity scan](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/DiskScan.ps1)
 
 
 ## Authors
