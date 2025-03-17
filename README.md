@@ -5,11 +5,9 @@ A curated collection of versatile PowerShell scripts designed to simplify everyd
 
 ## How to run
 
-
 ```bash
-  Download the selected .ps1 Files
+  Download the selected .ps1 files
 ```
-
 
 ```bash
   Run files as Administrator
@@ -22,21 +20,24 @@ Or
 ```
 
 ```bash
-  Copy and paste script into PowerShell and Run
+  Copy and paste the script into PowerShell and run
 ```
-
 
 ## PowerShell Scripts
 
-[PC lock session](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/LockComputer.ps1) 
-<br>
-[OS integrity scan](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/DiskScan.ps1)
-
+[Calculator.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/Calculator.ps1)  
+[DiskScan.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/DiskScan.ps1)  
+[Get-SystemInfo.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/Get-SystemInfo.ps1)  
+[LockComputer.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/LockComputer.ps1)  
+[Manage-Applications.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/Manage-Applications.ps1)  
+[RestartComputer.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/RestartComputer.ps1)  
+[ShowDateTime.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/ShowDateTime.ps1)  
+[PieCounter.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/PieCounter.ps1)  
+[MatrixScript.ps1](https://github.com/MyNameJackdev/EazyPowerShells/blob/main/Scripts/MatrixScript.ps1):
 
 ## Authors
 
 - [@MyNameJackdev](https://www.github.com/MyNameJackdev)
-
 
 ## License
 
